@@ -1,3 +1,5 @@
 hola quiero ser un conflicto!
 :)
 hola mundo! nuevo conflicto. AHORA SI, EL CONFLICTO
+ otro conflicto
+ nuevo jeje
